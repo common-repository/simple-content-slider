@@ -1,0 +1,9 @@
+.slidesjs-navigation { margin-top:3px; }
+.slidesjs-previous { margin-right: 5px; float: left; }
+.slidesjs-next { margin-right: 5px; float: left; }
+.slidesjs-pagination { margin: 6px 0 0; float: right; list-style: none; }
+.slidesjs-pagination li { float: left; margin: 0 1px; }
+.slidesjs-pagination li a { display: block; width: 8px; height: 0; padding-top: 8px; float: left; overflow: hidden; border:2px solid #666; border-radius:20px; }
+.slidesjs-pagination li a.active, .slidesjs-pagination li a:hover.active { background: #666; border-color: #666; }
+.slidesjs-pagination li a:hover { background: #aaa; border-color: #aaa; }
+.navbar { overflow: hidden }
